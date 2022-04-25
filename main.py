@@ -9,7 +9,6 @@ import os
 PATH = ''
 
 def post_to_twitter():
-    # API keys that you saved earlier
     api_key = ""
     api_secrets = ""
     access_token = ""
